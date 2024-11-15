@@ -1,0 +1,19 @@
+15:47:09.065 [main] INFO  testCases.TC_001_loginTest - Starting TC_001_loginTest
+15:47:11.948 [main] INFO  testCases.TC_001_loginTest -  Finished TC_001_loginTest
+15:49:05.743 [main] INFO  testCases.TC_001_loginTest - Starting TC_001_loginTest
+15:49:08.264 [main] INFO  testCases.TC_001_loginTest -  Finished TC_001_loginTest
+18:13:19.092 [main] INFO  testCases.TC_001_loginTest - Starting TC_001_loginTest
+18:13:21.817 [main] INFO  testCases.TC_001_loginTest -  Finished TC_001_loginTest
+18:14:07.693 [main] INFO  testCases.TC_001_loginTest - Starting TC_001_loginTest
+18:14:10.566 [main] INFO  testCases.TC_001_loginTest -  Finished TC_001_loginTest
+18:57:15.943 [main] INFO  testCases.TC_001_loginTest - Starting TC_001_loginTest
+18:57:19.297 [main] INFO  testCases.TC_001_loginTest -  Finished TC_001_loginTest
+18:57:29.119 [main] INFO  testCases.TC_002_OrgSelectTest - Starting TC_002_OrgSelectTest
+18:58:29.762 [main] INFO  testCases.TC_001_loginTest - Starting TC_001_loginTest
+18:58:32.468 [main] INFO  testCases.TC_001_loginTest -  Finished TC_001_loginTest
+18:58:40.280 [main] INFO  testCases.TC_002_OrgSelectTest - Starting TC_002_OrgSelectTest
+10:28:01.648 [main] INFO  testCases.TC_001_loginTest - Starting TC_001_loginTest
+10:28:15.308 [main] INFO  testCases.TC_002_OrgSelectTest - Starting TC_002_OrgSelectTest
+10:31:36.511 [main] INFO  testCases.TC_001_loginTest - Starting TC_001_loginTest
+10:31:39.470 [main] INFO  testCases.TC_001_loginTest - Cannot invoke "org.apache.logging.log4j.Logger.info(String)" because "this.logger" is null
+10:31:52.022 [main] INFO  testCases.TC_002_OrgSelectTest - Starting TC_002_OrgSelectTest
